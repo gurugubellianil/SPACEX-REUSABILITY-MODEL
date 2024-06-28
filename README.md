@@ -5,6 +5,8 @@ Predicting if the Falcon 9 first stage will land successfully. SpaceX advertises
 
 EDA - Collecting data on the Falcon 9 first-stage landings by using a RESTful API and web scraping. Also convert the data into a dataframe and then perform some data wrangling.
 
+Interactive Visual Analytics - Building a dashboard to analyze launch records interactively with Plotly Dash and then building an interactive map to analyze the launch site proximity with Folium.
+
 
 
 Its a markdown file in this repositary.
